@@ -50,7 +50,7 @@ In this project, we will complete the following tasks:
 ![image](https://user-images.githubusercontent.com/70902291/168422867-f82c3623-8f29-4f58-a0a2-c0bd1a52cdbe.png)
 
 
-#C lassification Report
+# Classification Report
 
 ![image](https://user-images.githubusercontent.com/70902291/168422891-0650b0b4-fdcb-4eef-883d-04b6f92efdff.png)
 
